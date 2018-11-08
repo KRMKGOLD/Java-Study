@@ -28,3 +28,10 @@ class Constructor{
     }
 ```
 
+4. Initalization_pratice.java : JAVA에서 사용되는 초기화 방식
+
+   ```
+   명시적 초기화(explicit initialization)
+   생성자(construcutor)
+   초기화 블럭(initalization block)
+   ```
