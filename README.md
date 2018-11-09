@@ -35,3 +35,10 @@ class Constructor{
    생성자(construcutor)
    초기화 블럭(initalization block)
    ```
+
+5. extend_inJAVA : JAVA의 상속
+
+6. overriding_inJAVA1, 2 : JAVA의 오버라이딩
+
+
+
