@@ -40,5 +40,10 @@ class Constructor{
 
 6. overriding_inJAVA1, 2 : JAVA의 오버라이딩
 
+7. super_inJava : super() 사용법
+
+8. modifier_inJava : 제어자 사용법
+
+9. abstract_inJava : 추상 클래스 사용법
 
 
